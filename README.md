@@ -1,1 +1,1 @@
-# my-ml-template
+# Sales forecasting project using time series
